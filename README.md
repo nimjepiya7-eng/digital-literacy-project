@@ -28,6 +28,10 @@ In this task, I explored two important categories of digital tools: coding pract
 HackerRank and LeetCode are widely used platforms that help students improve their programming and problem-solving skills. On these platforms, I practiced basic problems related to arrays, loops, and conditional statements. This helped me strengthen my logical thinking and understand how to approach coding questions step by step, which is essential for interviews and competitive programming.
 For collaboration, I used Google Docs and Google Drive. These tools allow multiple users to work on the same document in real time. I created and edited documents, shared files, and organized them in folders. This made it easier to manage my project work and collaborate efficiently without needing to be physically present with others.
 Overall, this task helped me understand the importance of using the right digital tools for learning and teamwork. In the future, I plan to regularly practice coding on these platforms and use cloud tools for group projects and assignments to improve productivity and collaboration skills.
+
+Digital Literacy Quiz!
+click below link
+https://docs.google.com/spreadsheets/d/1f6FaPolZcmyX5iY_dOOzTimHzLnyTy_nGG4P2GtGTbA/edit?usp=sharing
  
 TASK 4
 Draft a Professional Email & Etiquette Guide
